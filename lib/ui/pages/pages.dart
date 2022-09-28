@@ -1,0 +1,11 @@
+export 'auth/login.dart';
+export 'auth/register.dart';
+export 'auth/reset_password.dart';
+export 'home/account_page.dart';
+export 'home/discover_page.dart';
+export 'home/home.dart';
+export 'home/live_page.dart';
+export 'home/search_page.dart';
+export 'home/setting_page.dart';
+export 'slider.dart';
+export 'splash.dart';

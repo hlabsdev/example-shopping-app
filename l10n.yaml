@@ -1,0 +1,6 @@
+arb-dir: l10n
+synthetic-package: false
+template-arb-file: app_en.arb
+output-localization-file: app_lang.dart
+output-class: AppLang
+output-dir: lib/logic/managers/app_lang
